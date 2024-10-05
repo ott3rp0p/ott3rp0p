@@ -1,4 +1,1 @@
-## Hi there 👋
-
-[![Ott3rp0p's GitHub stats](https://github-readme-stats.vercel.app/api?username=ott3rp0p&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ott3rp0p&layout=compact&theme=hightcontrast)
